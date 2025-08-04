@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>HTML, CSS</b>
   - [MindSet WebPage](https://github.com/gideonosag/MindsetWebpage)
 
 <h2> 🤳 Connect with me:</h2>
